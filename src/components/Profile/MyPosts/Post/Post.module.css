@@ -1,0 +1,16 @@
+.item {
+    color: aquamarine;
+    display: flex;
+}
+
+.item img {
+    width: 30px;
+}
+
+.like {
+    color: crimson;
+}
+
+.message {
+    
+}
